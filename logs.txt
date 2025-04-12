@@ -1,0 +1,14 @@
+* e7cfc00 added method to find all completed tasks
+*   6e2647e Merge pull request #10 from Shack-de-Shnaek/1-remove-a-task-by-name
+|\  
+| * d26f8d4 added a method to remove a task by name
+* |   22145ae Merge pull request #12 from Shack-de-Shnaek/7-count-tasks-per-category
+|\ \  
+| |/  
+|/|   
+| * db5a505 added method to count tasks per category
+|/  
+| * ef79a0a added method to find all completed tasks
+|/  
+* e0912b5 Add starter code
+* 9d31deb Initial commit

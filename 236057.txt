@@ -1,0 +1,18 @@
+git checkout 1-remove-a-task-by-name
+git commit -am 'added method to remove a task by name'
+git push --set-upstream origin 1-remove-a-task-by-name
+git checkout 2-find-all-completed-tasks
+git commit -am 'added method to find all completed tasks'
+git push --set-upstream origin 2-find-all-completed-tasks
+git checkout 7-count-tasks-per-category
+git commit -am 'added method to count tasks per category'
+git push --set-upstream origin 7-count-tasks-per-category
+git checkout master
+git merge 2-find-all-completed-tasks
+git push # greshka
+git pull # greshak
+git pull --rebase # konflikt
+# rachno razreshuvanje na konflikt
+git commit -a
+git push
+
